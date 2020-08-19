@@ -1,6 +1,6 @@
-# Aula BN8AU em 2020 no segundo semestre
+# Aula BAN8AU em 2020 no segundo semestre
 
-Aula ministrada para a disciplina de projeto urbanístico e paisagístico a convite do prof. Leonardo Loyolla Coelho, para o curso de graduação de Arquitetura e Urbanismo do Centro Universitário Belas Artes em São Paulo
+Aulas ministradas para a disciplina de projeto urbanístico e paisagístico a convite do prof. Leonardo Loyolla Coelho e da prof. Silvia, para o curso de graduação de Arquitetura e Urbanismo do Centro Universitário Belas Artes em São Paulo
 
 ## Motivação 
 
