@@ -41,6 +41,8 @@ Em um segundo momento a aula passa para uma exposição mais prática de possibi
 
 ## Materiais
 
+Todos os materiais dsiponibilizados estão na pasta `resultados` aqui deste repositório e tem a mesma licença livre atribuida, pois foram feitos a partir de dados abertos.
+
 ## Resultados
 
 Os alunos são convidados a publicar os resultados dos trabalhos nesse repositório e compartilhar seus materiais, análises e observações obtidas, dessa forma contribuindo de maneira colaborativa com o grupo.
